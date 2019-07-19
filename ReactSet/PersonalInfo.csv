@@ -1,0 +1,410 @@
+idPersonal,lastPage,language,dateBegin,dateEnd,ipAddress,age,sex,timeUsingFacebook,hoursUsingFacebook,scholarity,currentJob,totalTime
+285,37.0,pt-BR,2017-06-28 19:21:11,2017-06-28 19:47:03,189.103.18.47,14.0,Woman,1 to 3 years,Less than 1 hour,Elementary School,Student,1567.35
+286,37.0,pt-BR,2017-06-28 19:22:58,2017-06-28 19:38:12,143.107.183.151,27.0,Man,More than 6 years,2 to 5 hours,Master,Student,926.45
+287,3.0,pt-BR,2017-06-28 19:26:54,2017-06-28 19:28:25,186.209.75.86,27.0,Woman,3 to 6 years,More than 8 hours,Master,Student,92.67
+288,37.0,pt-BR,2017-06-28 19:36:45,2017-06-28 20:14:37,143.107.183.151,35.0,Man,More than 6 years,1 to 2 hours,Master,Employee,2288.12
+289,1.0,pt-BR,2017-06-28 19:37:27,2017-06-28 19:37:45,143.107.183.151,0.0,Man,Menos de 1 ano,5 to 8 hours,Master,Employee,18.03
+290,4.0,pt-BR,2017-06-28 19:47:15,2017-06-28 19:51:02,200.136.197.204,30.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,229.84
+291,,pt-BR,2017-06-28 19:53:51,2017-06-28 19:53:51,177.206.127.82,,,,DNA,DNA,DNA,0.0
+292,14.0,pt-BR,2017-06-28 20:36:01,2017-06-28 20:52:20,200.136.207.228,19.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,984.11
+293,37.0,pt-BR,2017-06-28 20:36:08,2017-06-28 23:51:26,186.209.73.92,38.0,Man,More than 6 years,1 to 2 hours,Doctorate,Employee,11730.7
+294,37.0,pt-BR,2017-06-28 20:58:08,2017-06-28 21:16:41,172.22.93.81,43.0,Man,3 to 6 years,Less than 1 hour,Master,Employee,1123.16
+295,4.0,pt-BR,2017-06-28 21:24:42,2017-06-28 21:26:48,193.136.53.25,33.0,Woman,More than 6 years,Less than 1 hour,Master,Student,127.3
+296,16.0,pt-BR,2017-06-28 21:59:05,2017-06-28 22:05:35,177.180.100.169,21.0,Man,More than 6 years,1 to 2 hours,High school,Student,399.71
+297,37.0,pt-BR,2017-06-28 22:01:25,2017-06-28 22:17:30,88.207.135.235,28.0,Man,More than 6 years,1 to 2 hours,Master,Student,976.85
+298,37.0,pt-BR,2017-06-28 23:15:43,2017-06-29 00:50:02,201.17.211.66,29.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,5674.9
+299,,pt-BR,2017-06-28 23:37:13,2017-06-28 23:37:13,189.35.25.183,,,,DNA,DNA,DNA,0.0
+300,,pt-BR,2017-06-28 23:50:38,2017-06-28 23:50:38,189.123.117.29,,,,DNA,DNA,DNA,0.0
+302,37.0,pt-BR,2017-06-29 02:31:16,2017-06-29 02:51:36,201.13.176.226,56.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,1080.36
+303,,pt-BR,2017-06-29 03:38:41,2017-06-29 03:38:41,177.180.104.75,,,,DNA,DNA,DNA,0.0
+304,37.0,pt-BR,2017-06-29 03:44:21,2017-06-29 04:06:23,191.189.120.122,18.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,1323.76
+305,18.0,pt-BR,2017-06-29 03:45:54,2017-06-29 03:59:03,189.103.18.47,24.0,Woman,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,796.88
+306,14.0,pt-BR,2017-06-29 03:47:48,2017-06-29 04:00:19,189.35.27.224,18.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,757.7
+307,5.0,pt-BR,2017-06-29 05:45:55,2017-06-29 05:47:37,187.66.187.159,19.0,Woman,3 to 6 years,Less than 1 hour,High school,Student,103.51
+308,3.0,pt-BR,2017-06-29 07:01:37,2017-06-29 07:04:51,177.180.166.58,55.0,Woman,3 to 6 years,Less than 1 hour,Doctorate,Employee,196.93
+309,37.0,pt-BR,2017-06-29 11:20:48,2017-06-29 11:37:15,186.223.215.251,20.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,1003.01
+310,2.0,pt-BR,2017-06-29 11:30:31,2017-06-29 11:32:51,177.180.104.122,26.0,Woman,More than 6 years,2 to 5 hours,High school,Student,142.1
+311,37.0,pt-BR,2017-06-29 11:35:57,2017-06-29 11:56:10,187.23.94.61,22.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,1229.89
+312,37.0,pt-BR,2017-06-29 12:06:21,2017-06-29 12:22:39,187.66.191.247,18.0,Man,More than 6 years,1 to 2 hours,High school,Student,995.53
+313,37.0,pt-BR,2017-06-29 13:06:06,2017-06-29 13:26:51,177.221.60.10,21.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,1259.07
+314,37.0,pt-BR,2017-06-29 13:33:16,2017-06-29 13:46:32,200.136.199.234,18.0,Man,3 to 6 years,2 to 5 hours,High school,Student,811.14
+315,37.0,pt-BR,2017-06-29 13:37:40,2017-06-29 13:46:29,186.233.152.223,23.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,542.53
+316,,pt-BR,2017-06-29 13:39:31,2017-06-29 13:39:31,143.107.225.16,,,,DNA,DNA,DNA,0.0
+317,37.0,pt-BR,2017-06-29 13:41:36,2017-06-29 13:58:50,10.188.11.62,32.0,Woman,More than 6 years,1 to 2 hours,Doctorate,Employee,1047.78
+318,,pt-BR,2017-06-29 13:43:58,2017-06-29 13:43:58,191.189.122.237,,,,DNA,DNA,DNA,0.0
+319,15.0,pt-BR,2017-06-29 13:44:16,2017-06-29 14:11:31,187.66.89.68,21.0,Man,More than 6 years,1 to 2 hours,High school,Student,1641.31
+321,2.0,pt-BR,2017-06-29 13:47:12,2017-06-29 13:48:10,189.58.209.164,24.0,Woman,3 to 6 years,2 to 5 hours,Master,Unemployed,58.36
+322,37.0,pt-BR,2017-06-29 13:47:19,2017-06-29 14:09:46,200.137.65.100,51.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,1339.22
+323,37.0,pt-BR,2017-06-29 13:47:28,2017-06-29 14:03:18,177.105.255.86,30.0,Woman,More than 6 years,2 to 5 hours,Master,Student,966.54
+324,0.0,pt-BR,2017-06-29 13:48:33,2017-06-29 13:48:50,187.55.98.186,,,,DNA,DNA,DNA,17.04
+325,37.0,pt-BR,2017-06-29 13:49:08,2017-06-29 14:05:36,187.112.64.212,27.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,1003.9
+326,37.0,pt-BR,2017-06-29 13:50:31,2017-06-29 14:02:27,187.65.24.115,20.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,731.11
+327,4.0,pt-BR,2017-06-29 13:50:31,2017-06-29 13:52:15,192.168.182.104,21.0,Man,3 to 6 years,2 to 5 hours,High school,Student,105.41
+328,13.0,pt-BR,2017-06-29 13:53:44,2017-06-29 14:00:34,187.23.83.71,21.0,NotInformed,More than 6 years,2 to 5 hours,High school,Student,414.29
+329,11.0,pt-BR,2017-06-29 13:54:00,2017-06-29 14:00:47,201.8.2.149,27.0,Woman,More than 6 years,5 to 8 hours,Master,Student,412.3
+330,3.0,pt-BR,2017-06-29 13:54:02,2017-06-29 13:56:47,189.122.97.67,25.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,166.28
+331,37.0,pt-BR,2017-06-29 13:54:13,2017-06-29 14:07:08,191.196.72.84,24.0,Man,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,791.18
+332,,pt-BR,2017-06-29 13:54:15,2017-06-29 13:54:15,187.23.93.242,,,,DNA,DNA,DNA,0.0
+333,18.0,pt-BR,2017-06-29 13:56:43,2017-06-29 14:01:22,200.20.187.111,26.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,285.0
+334,9.0,pt-BR,2017-06-29 13:57:32,2017-06-29 14:01:58,187.35.174.162,19.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,270.49
+335,37.0,pt-BR,2017-06-29 13:58:01,2017-06-29 14:05:41,200.101.227.154,24.0,Woman,More than 6 years,5 to 8 hours,Master,Employee,475.31
+336,8.0,pt-BR,2017-06-29 13:59:14,2017-06-29 14:03:49,200.0.33.74,26.0,Man,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Unemployed,279.29
+337,3.0,pt-BR,2017-06-29 14:00:24,2017-06-29 14:02:49,179.234.181.117,20.0,Woman,More than 6 years,1 to 2 hours,High school,Student,145.47
+338,1.0,pt-BR,2017-06-29 14:00:57,2017-06-29 14:03:05,177.34.164.71,29.0,Man,More than 6 years,1 to 2 hours,Master,Employee,128.45
+339,15.0,pt-BR,2017-06-29 14:03:12,2017-06-29 14:07:45,187.72.252.145,21.0,Woman,3 to 6 years,1 to 2 hours,High school,Student/Employee,279.1
+340,5.0,pt-BR,2017-06-29 14:03:44,2017-06-29 14:05:44,191.86.87.216,19.0,Man,More than 6 years,1 to 2 hours,High school,Student,122.62
+341,4.0,pt-BR,2017-06-29 14:04:17,2017-06-29 14:17:44,143.107.183.158,27.0,Man,More than 6 years,2 to 5 hours,Master,Student,808.8
+342,,pt-BR,2017-06-29 14:07:07,2017-06-29 14:07:07,201.35.79.2,,,,DNA,DNA,DNA,0.0
+343,15.0,pt-BR,2017-06-29 14:07:41,2017-06-29 14:15:44,201.35.79.2,26.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,486.46
+344,37.0,pt-BR,2017-06-29 14:08:36,2017-06-29 14:22:12,200.136.198.98,23.0,Woman,1 to 3 years,2 to 5 hours,Higher Education (Undergraduate),Student,833.95
+346,37.0,pt-BR,2017-06-29 14:12:17,2017-06-29 14:40:16,177.183.160.14,25.0,Woman,More than 6 years,2 to 5 hours,High school,Student,1554.95
+347,37.0,pt-BR,2017-06-29 14:12:23,2017-06-29 14:26:48,177.4.50.25,23.0,Man,3 to 6 years,2 to 5 hours,Master,Student,877.92
+348,37.0,pt-BR,2017-06-29 14:13:47,2017-06-29 14:38:00,200.136.247.138,21.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Student/Employee,1465.93
+350,9.0,pt-BR,2017-06-29 14:17:53,2017-06-29 14:24:42,189.78.206.214,29.0,Man,More than 6 years,5 to 8 hours,High school,Student,412.41
+351,37.0,pt-BR,2017-06-29 14:21:39,2017-06-29 14:36:03,143.107.230.107,20.0,Woman,3 to 6 years,2 to 5 hours,High school,Student/Unemployed,881.62
+352,14.0,pt-BR,2017-06-29 14:24:42,2017-06-29 14:29:27,191.189.115.195,20.0,Man,More than 6 years,1 to 2 hours,High school,Student/Unemployed,291.12
+353,37.0,pt-BR,2017-06-29 14:25:34,2017-06-29 14:36:46,131.221.242.233,27.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,686.89
+354,9.0,pt-BR,2017-06-29 14:33:14,2017-06-29 14:40:49,10.102.201.219,23.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,458.29
+355,37.0,pt-BR,2017-06-29 14:33:26,2017-06-29 14:50:12,201.55.31.33,28.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,1021.29
+356,37.0,pt-BR,2017-06-29 14:33:47,2017-06-29 14:49:20,191.19.248.36,22.0,Woman,3 to 6 years,More than 8 hours,High school,Student,946.37
+357,3.0,pt-BR,2017-06-29 14:35:42,2017-06-29 14:37:36,186.214.253.163,25.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,115.64
+358,2.0,pt-BR,2017-06-29 14:37:32,2017-06-29 14:38:59,189.103.17.57,18.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,88.15
+359,,pt-BR,2017-06-29 14:39:03,2017-06-29 14:39:03,143.107.182.231,,,,DNA,DNA,DNA,0.0
+360,37.0,pt-BR,2017-06-29 14:44:19,2017-06-29 14:55:21,201.78.128.95,22.0,Woman,More than 6 years,Less than 1 hour,High school,Student,675.41
+361,1.0,pt-BR,2017-06-29 14:51:44,2017-06-29 14:52:26,191.189.117.90,18.0,Man,More than 6 years,1 to 2 hours,High school,Student,42.44
+362,2.0,pt-BR,2017-06-29 14:51:47,2017-06-29 14:52:58,187.56.22.84,21.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,72.2
+363,37.0,pt-BR,2017-06-29 14:54:54,2017-06-29 15:09:24,186.219.90.113,20.0,Man,3 to 6 years,2 to 5 hours,High school,Student/Unemployed,886.43
+364,37.0,pt-BR,2017-06-29 14:57:56,2017-06-29 15:10:07,201.4.29.150,23.0,Woman,More than 6 years,More than 8 hours,Master,Student,747.73
+365,6.0,pt-BR,2017-06-29 15:00:09,2017-06-29 15:18:12,189.57.58.247,25.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,1085.97
+366,23.0,pt-BR,2017-06-29 15:08:37,2017-06-29 15:25:29,201.0.149.231,18.0,Woman,3 to 6 years,5 to 8 hours,High school,Employee,1019.6
+367,1.0,pt-BR,2017-06-29 15:09:00,2017-06-29 15:09:40,189.68.197.20,21.0,Man,3 to 6 years,1 to 2 hours,High school,Student,40.07
+368,20.0,pt-BR,2017-06-29 15:33:16,2017-06-29 15:54:54,189.35.188.165,20.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,1304.01
+369,37.0,pt-BR,2017-06-29 15:49:58,2017-06-29 16:06:30,187.66.92.79,19.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,780.72
+370,2.0,pt-BR,2017-06-29 15:53:47,2017-06-29 15:55:16,200.136.202.160,17.0,Man,3 to 6 years,2 to 5 hours,High school,Student,90.07
+371,4.0,pt-BR,2017-06-29 15:57:00,2017-06-29 15:58:45,187.66.89.15,20.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student/Employee,107.37
+372,13.0,pt-BR,2017-06-29 15:57:37,2017-06-29 16:03:49,187.49.14.68,30.0,NotInformed,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,379.35
+373,0.0,pt-BR,2017-06-29 16:00:06,2017-06-29 16:00:24,179.110.231.91,35.0,,,DNA,DNA,DNA,18.88
+374,5.0,pt-BR,2017-06-29 16:00:06,2017-06-29 16:02:28,177.69.129.53,25.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,142.3
+375,7.0,pt-BR,2017-06-29 16:01:18,2017-06-29 16:06:52,177.206.127.82,29.0,Man,More than 6 years,2 to 5 hours,Master,Employee,322.26
+376,37.0,pt-BR,2017-06-29 16:01:40,2017-06-29 16:25:18,179.110.231.91,35.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,1431.13
+377,11.0,pt-BR,2017-06-29 16:03:47,2017-06-29 16:07:54,187.32.4.225,21.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,249.85
+378,9.0,pt-BR,2017-06-29 16:04:48,2017-06-29 16:08:30,187.39.184.204,22.0,Man,3 to 6 years,2 to 5 hours,High school,Student,228.06
+379,1.0,pt-BR,2017-06-29 16:06:13,2017-06-29 16:06:55,143.107.237.215,21.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,42.07
+380,1.0,pt-BR,2017-06-29 16:10:49,2017-06-29 16:12:18,177.58.248.59,26.0,Woman,More than 6 years,2 to 5 hours,High school,Student,89.21
+381,2.0,pt-BR,2017-06-29 16:11:16,2017-06-29 16:13:15,187.107.184.46,21.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,120.52
+382,2.0,pt-BR,2017-06-29 16:19:47,2017-06-29 16:46:12,191.196.157.46,20.0,Woman,3 to 6 years,5 to 8 hours,High school,Student,1586.3
+383,37.0,pt-BR,2017-06-29 16:21:45,2017-06-29 16:43:10,186.223.216.69,23.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,1301.07
+384,6.0,pt-BR,2017-06-29 16:28:32,2017-06-29 16:32:20,187.23.82.161,29.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,229.79
+385,2.0,pt-BR,2017-06-29 16:28:32,2017-06-29 16:29:22,187.66.94.83,21.0,Woman,More than 6 years,1 to 2 hours,High school,Student,49.64
+386,3.0,pt-BR,2017-06-29 16:30:37,2017-06-29 16:40:03,187.109.178.39,22.0,Woman,1 to 3 years,2 to 5 hours,Higher Education (Undergraduate),Employee,566.62
+387,8.0,pt-BR,2017-06-29 16:31:43,2017-06-29 16:38:50,200.150.73.98,22.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,431.52
+388,37.0,pt-BR,2017-06-29 16:31:45,2017-06-29 16:41:49,189.4.73.200,26.0,Woman,More than 6 years,5 to 8 hours,Master,Student,616.75
+389,2.0,pt-BR,2017-06-29 16:51:10,2017-06-29 16:52:18,191.185.224.39,29.0,Woman,More than 6 years,2 to 5 hours,Master,Student,69.8
+390,2.0,pt-BR,2017-06-29 16:52:07,2017-06-29 16:53:15,189.103.21.23,24.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,69.52
+391,4.0,pt-BR,2017-06-29 16:56:04,2017-06-29 16:58:15,177.180.97.232,20.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student/Unemployed,132.63
+392,37.0,pt-BR,2017-06-29 17:04:30,2017-06-29 17:35:41,189.7.83.232,43.0,Woman,More than 6 years,1 to 2 hours,High school,Unemployed,1883.98
+393,37.0,pt-BR,2017-06-29 17:08:33,2017-06-29 17:21:52,179.177.113.221,33.0,Woman,3 to 6 years,1 to 2 hours,Master,Employee,812.84
+394,5.0,pt-BR,2017-06-29 17:12:02,2017-06-29 17:16:48,177.193.58.216,32.0,Woman,3 to 6 years,5 to 8 hours,Master,Unemployed,286.64
+395,37.0,pt-BR,2017-06-29 17:18:55,2017-06-29 17:32:46,186.213.240.81,39.0,Woman,More than 6 years,1 to 2 hours,Doctorate,Employee,841.83
+396,5.0,pt-BR,2017-06-29 17:20:51,2017-06-29 17:22:39,192.168.182.107,18.0,Man,More than 6 years,1 to 2 hours,High school,Student,110.33
+397,,pt-BR,2017-06-29 17:33:50,2017-06-29 17:33:50,189.35.184.100,,,,DNA,DNA,DNA,0.0
+398,7.0,pt-BR,2017-06-29 17:33:57,2017-06-29 17:38:07,191.188.67.127,19.0,Woman,1 to 3 years,2 to 5 hours,High school,Student/Unemployed,252.31
+399,24.0,pt-BR,2017-06-29 17:35:59,2017-06-29 17:44:50,187.66.86.60,24.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,541.05
+400,37.0,pt-BR,2017-06-29 17:38:32,2017-06-29 17:48:10,189.35.186.108,27.0,Man,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,590.86
+402,1.0,pt-BR,2017-06-29 17:51:04,2017-06-29 17:53:13,179.241.219.65,25.0,Man,More than 6 years,More than 8 hours,Higher Education (Undergraduate),Employee,129.93
+403,5.0,pt-BR,2017-06-29 17:52:17,2017-06-29 17:56:02,177.128.104.146,26.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,227.44
+404,37.0,pt-BR,2017-06-29 17:56:09,2017-06-29 18:14:58,143.107.180.20,18.0,Man,3 to 6 years,2 to 5 hours,High school,Student,1141.31
+405,5.0,pt-BR,2017-06-29 18:00:02,2017-06-29 18:02:49,186.223.211.183,22.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,168.2
+407,4.0,pt-BR,2017-06-29 18:05:00,2017-06-29 18:07:47,189.35.188.193,23.0,Man,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,168.45
+408,,pt-BR,2017-06-29 18:11:38,2017-06-29 18:11:38,10.62.6.228,,,,DNA,DNA,DNA,0.0
+409,30.0,pt-BR,2017-06-29 18:13:19,2017-06-29 18:32:02,200.136.195.255,27.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,1138.1
+410,15.0,pt-BR,2017-06-29 18:13:48,2017-06-29 18:25:36,187.22.17.248,18.0,Woman,3 to 6 years,2 to 5 hours,High school,Employee,713.78
+411,37.0,pt-BR,2017-06-29 18:13:53,2017-06-29 18:27:17,143.107.232.254,20.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,820.83
+412,3.0,pt-BR,2017-06-29 18:15:36,2017-06-29 18:19:30,46.189.28.208,25.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,235.71
+413,37.0,pt-BR,2017-06-29 18:25:25,2017-06-29 18:36:11,187.101.39.241,20.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,659.74
+414,6.0,pt-BR,2017-06-29 18:32:48,2017-06-29 18:35:14,200.136.242.179,20.0,Man,3 to 6 years,5 to 8 hours,High school,Student/Employee,148.67
+415,37.0,pt-BR,2017-06-29 18:36:08,2017-06-29 19:10:30,179.99.194.66,19.0,Woman,More than 6 years,1 to 2 hours,High school,Student/Employee,2076.26
+416,2.0,pt-BR,2017-06-29 18:36:45,2017-06-29 18:37:53,177.180.165.167,20.0,Man,3 to 6 years,Less than 1 hour,High school,Student,69.38
+417,11.0,pt-BR,2017-06-29 18:37:13,2017-06-29 18:43:31,191.32.144.25,28.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,382.3
+418,37.0,pt-BR,2017-06-29 18:40:37,2017-06-29 18:53:57,187.66.190.246,26.0,Woman,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,817.08
+419,20.0,pt-BR,2017-06-29 19:18:47,2017-06-29 19:24:13,177.141.73.243,19.0,Woman,More than 6 years,2 to 5 hours,High school,Student,334.58
+420,30.0,pt-BR,2017-06-29 19:22:34,2017-06-29 19:49:45,189.7.83.92,34.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,879.29
+421,,pt-BR,2017-06-29 19:25:58,2017-06-29 19:25:58,143.107.232.201,,,,DNA,DNA,DNA,0.0
+422,,pt-BR,2017-06-29 19:42:19,2017-06-29 19:42:19,46.193.66.100,,,,DNA,DNA,DNA,0.0
+423,2.0,pt-BR,2017-06-29 19:42:25,2017-06-29 19:48:37,143.107.231.30,21.0,Man,More than 6 years,Less than 1 hour,High school,Student,372.7
+424,4.0,pt-BR,2017-06-29 19:48:58,2017-06-29 19:51:07,168.181.48.13,28.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,130.63
+425,1.0,pt-BR,2017-06-29 19:51:11,2017-06-29 19:51:38,179.213.77.143,24.0,Man,3 to 6 years,Less than 1 hour,High school,Student/Employee,27.64
+426,23.0,pt-BR,2017-06-29 19:51:22,2017-06-29 20:37:14,177.58.245.61,52.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Retired,2762.84
+427,1.0,pt-BR,2017-06-29 19:53:16,2017-06-29 19:53:48,109.246.11.74,28.0,Man,3 to 6 years,2 to 5 hours,Doctorate,Employee,32.65
+428,4.0,pt-BR,2017-06-29 19:56:02,2017-06-29 19:58:24,177.215.111.164,30.0,Woman,3 to 6 years,2 to 5 hours,High school,Unemployed,143.68
+429,22.0,pt-BR,2017-06-29 19:59:26,2017-06-29 20:07:13,177.95.37.174,22.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,475.12
+430,18.0,pt-BR,2017-06-29 20:01:41,2017-06-29 20:32:31,170.150.106.28,30.0,Woman,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,1857.86
+431,37.0,pt-BR,2017-06-29 20:02:32,2017-06-29 20:15:15,189.28.254.11,27.0,Man,More than 6 years,Less than 1 hour,Master,Student,773.56
+432,,pt-BR,2017-06-29 20:05:09,2017-06-29 20:05:09,189.7.83.92,,,,DNA,DNA,DNA,0.0
+433,37.0,pt-BR,2017-06-29 20:23:45,2017-06-29 20:39:01,179.176.125.207,22.0,Woman,More than 6 years,2 to 5 hours,Master,Student,930.21
+434,37.0,pt-BR,2017-06-29 20:24:09,2017-06-29 20:44:02,189.35.187.116,20.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,1204.92
+435,2.0,pt-BR,2017-06-29 20:43:37,2017-06-29 20:45:00,177.180.110.193,37.0,Man,3 to 6 years,2 to 5 hours,Doctorate,Student/Employee,83.77
+436,5.0,pt-BR,2017-06-29 20:57:29,2017-06-29 20:59:47,170.84.88.14,23.0,Man,More than 6 years,1 to 2 hours,High school,Employee,139.33
+437,6.0,pt-BR,2017-06-29 21:06:11,2017-06-29 21:09:26,177.180.166.159,26.0,Woman,More than 6 years,1 to 2 hours,Master,Student,197.06
+438,37.0,pt-BR,2017-06-29 21:11:49,2017-06-29 21:30:01,179.178.201.34,39.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,1107.13
+439,37.0,pt-BR,2017-06-29 21:18:26,2017-06-29 21:28:11,10.62.6.239,28.0,Man,More than 6 years,2 to 5 hours,Master,Student,604.85
+440,37.0,pt-BR,2017-06-29 21:19:01,2017-06-29 21:42:40,177.79.40.143,38.0,Woman,More than 6 years,1 to 2 hours,Master,Employee,1432.95
+441,37.0,pt-BR,2017-06-29 21:20:53,2017-06-29 21:41:31,177.35.42.123,26.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Unemployed,1251.78
+442,37.0,pt-BR,2017-06-29 21:26:24,2017-06-29 21:40:17,191.55.8.53,28.0,Woman,More than 6 years,5 to 8 hours,Master,Employee,843.8
+444,,pt-BR,2017-06-29 21:34:45,2017-06-29 21:34:45,187.101.39.53,,,,DNA,DNA,DNA,0.0
+445,37.0,pt-BR,2017-06-29 21:41:26,2017-06-29 22:04:00,191.184.34.53,20.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Unemployed,1365.91
+446,37.0,pt-BR,2017-06-29 21:41:55,2017-06-29 21:58:50,177.9.7.110,33.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Employee,1030.9
+447,,pt-BR,2017-06-29 21:43:32,2017-06-29 21:43:32,177.133.177.162,,,,DNA,DNA,DNA,0.0
+448,0.0,pt-BR,2017-06-29 21:46:19,2017-06-29 21:46:28,186.209.69.66,,,,DNA,DNA,DNA,9.76
+449,37.0,pt-BR,2017-06-29 21:49:40,2017-06-29 22:05:36,187.181.129.196,29.0,Woman,3 to 6 years,1 to 2 hours,Master,Unemployed,970.72
+450,2.0,pt-BR,2017-06-29 21:54:11,2017-06-29 21:55:49,201.42.165.126,18.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,98.45
+452,9.0,pt-BR,2017-06-29 21:59:53,2017-06-29 22:02:17,189.103.21.239,19.0,Man,More than 6 years,1 to 2 hours,High school,Student,147.53
+453,37.0,pt-BR,2017-06-29 22:02:32,2017-06-29 22:13:59,187.23.88.205,20.0,Woman,More than 6 years,2 to 5 hours,High school,Student,699.71
+454,3.0,pt-BR,2017-06-29 22:05:21,2017-06-29 22:07:47,177.35.46.14,22.0,Man,3 to 6 years,1 to 2 hours,High school,Student,146.4
+455,1.0,pt-BR,2017-06-29 22:16:43,2017-06-29 22:19:27,177.177.219.63,20.0,Man,More than 6 years,1 to 2 hours,High school,Student,163.11
+456,,pt-BR,2017-06-29 22:17:00,2017-06-29 22:17:00,201.0.40.241,,,,DNA,DNA,DNA,0.0
+457,,pt-BR,2017-06-29 22:20:19,2017-06-29 22:20:19,201.54.119.193,,,,DNA,DNA,DNA,0.0
+458,23.0,pt-BR,2017-06-29 22:24:46,2017-06-29 22:33:07,179.187.10.64,20.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,512.04
+459,9.0,pt-BR,2017-06-29 22:31:48,2017-06-29 22:35:39,177.206.124.183,25.0,Woman,More than 6 years,2 to 5 hours,Master,Student,232.7
+460,2.0,pt-BR,2017-06-29 22:39:57,2017-06-29 22:41:02,150.162.124.41,35.0,Man,More than 6 years,1 to 2 hours,Doctorate,Employee,66.46
+461,2.0,pt-BR,2017-06-29 22:40:24,2017-06-29 22:42:40,187.107.177.249,19.0,Man,1 to 3 years,1 to 2 hours,High school,Student/Unemployed,136.94
+462,12.0,pt-BR,2017-06-29 22:49:14,2017-06-29 22:54:22,143.107.231.30,25.0,Man,3 to 6 years,2 to 5 hours,Master,Student,313.51
+463,1.0,pt-BR,2017-06-29 22:52:00,2017-06-29 22:52:43,191.189.114.145,29.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,42.25
+464,37.0,pt-BR,2017-06-29 22:54:23,2017-06-29 23:12:57,177.138.225.99,70.0,Woman,3 to 6 years,2 to 5 hours,Master,Retired,1129.79
+465,37.0,pt-BR,2017-06-29 23:18:37,2017-06-29 23:30:16,177.42.62.138,49.0,Man,3 to 6 years,2 to 5 hours,Master,Employee,713.82
+466,9.0,pt-BR,2017-06-29 23:26:14,2017-06-29 23:31:02,200.133.218.69,26.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,290.52
+467,18.0,pt-BR,2017-06-29 23:38:35,2017-06-29 23:54:07,177.177.221.232,20.0,Man,More than 6 years,2 to 5 hours,High school,Student,938.64
+468,37.0,pt-BR,2017-06-29 23:41:01,2017-06-29 23:52:40,187.66.92.171,34.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,707.24
+469,23.0,pt-BR,2017-06-29 23:43:38,2017-06-29 23:52:10,189.103.20.163,23.0,Woman,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,521.07
+470,9.0,pt-BR,2017-06-29 23:44:53,2017-06-29 23:50:34,177.35.28.146,19.0,Man,3 to 6 years,2 to 5 hours,High school,Student/Employee,343.98
+471,37.0,pt-BR,2017-06-29 23:47:08,2017-06-30 00:09:11,187.109.208.18,38.0,Woman,More than 6 years,Less than 1 hour,Doctorate,Employee,965.52
+472,37.0,pt-BR,2017-06-29 23:48:34,2017-06-30 00:19:56,200.100.200.163,22.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,1895.36
+473,37.0,pt-BR,2017-06-29 23:52:08,2017-06-30 00:06:20,200.100.245.90,28.0,Woman,More than 6 years,2 to 5 hours,Master,Student/Employee,864.96
+474,37.0,pt-BR,2017-06-29 23:54:00,2017-06-30 00:09:41,191.254.128.83,37.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,955.84
+475,,pt-BR,2017-06-29 23:54:47,2017-06-29 23:54:47,177.82.91.38,,,,DNA,DNA,DNA,0.0
+476,37.0,pt-BR,2017-06-29 23:58:04,2017-06-30 00:13:41,191.184.43.94,20.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Unemployed,938.32
+477,5.0,pt-BR,2017-06-30 00:14:21,2017-06-30 00:17:36,177.74.189.249,39.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,197.78
+478,1.0,pt-BR,2017-06-30 00:15:12,2017-06-30 00:16:13,191.23.61.180,46.0,Woman,3 to 6 years,2 to 5 hours,High school,Employee,61.17
+479,4.0,pt-BR,2017-06-30 00:16:33,2017-06-30 00:19:24,189.15.247.125,24.0,Woman,More than 6 years,Less than 1 hour,High school,Employee,172.5
+480,14.0,pt-BR,2017-06-30 00:21:29,2017-06-30 00:32:04,45.4.35.246,37.0,Woman,More than 6 years,5 to 8 hours,Elementary School,Unemployed,639.08
+481,37.0,pt-BR,2017-06-30 00:23:02,2017-06-30 00:35:39,179.183.10.193,35.0,Woman,3 to 6 years,5 to 8 hours,High school,Employee,770.15
+482,37.0,pt-BR,2017-06-30 00:26:36,2017-06-30 00:44:15,189.68.101.240,43.0,Woman,More than 6 years,More than 8 hours,Higher Education (Undergraduate),Unemployed,1076.41
+483,37.0,pt-BR,2017-06-30 00:27:22,2017-06-30 00:47:27,191.19.53.116,40.0,Woman,1 to 3 years,5 to 8 hours,High school,Unemployed,1220.05
+484,29.0,pt-BR,2017-06-30 00:28:36,2017-06-30 00:40:01,191.189.114.146,18.0,Man,1 to 3 years,Less than 1 hour,High school,Student,697.85
+485,37.0,pt-BR,2017-06-30 00:31:27,2017-06-30 00:48:51,168.194.107.255,28.0,Woman,3 to 6 years,5 to 8 hours,Master,Employee,1058.4
+486,37.0,pt-BR,2017-06-30 00:39:17,2017-06-30 00:57:17,187.57.52.91,30.0,Woman,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,1093.62
+487,12.0,pt-BR,2017-06-30 00:43:08,2017-06-30 00:50:32,189.5.226.53,38.0,Woman,3 to 6 years,2 to 5 hours,Master,Employee,450.05
+488,37.0,pt-BR,2017-06-30 00:48:55,2017-06-30 01:01:58,189.46.110.185,44.0,Woman,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,796.83
+489,9.0,pt-BR,2017-06-30 00:50:03,2017-06-30 00:54:37,200.175.83.194,32.0,Woman,More than 6 years,2 to 5 hours,Doctorate,Student,275.97
+490,1.0,pt-BR,2017-06-30 00:53:16,2017-06-30 00:53:33,189.35.190.167,21.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,17.61
+491,,pt-BR,2017-06-30 01:05:07,2017-06-30 01:05:07,152.238.31.223,,,,DNA,DNA,DNA,0.0
+492,29.0,pt-BR,2017-06-30 01:07:02,2017-06-30 01:19:32,191.34.94.192,25.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,764.43
+493,37.0,pt-BR,2017-06-30 01:13:55,2017-06-30 01:36:01,187.75.8.53,22.0,Woman,1 to 3 years,1 to 2 hours,High school,Unemployed,1341.25
+494,,pt-BR,2017-06-30 01:21:08,2017-06-30 01:21:08,189.15.241.222,,,,DNA,DNA,DNA,0.0
+495,5.0,pt-BR,2017-06-30 01:25:37,2017-06-30 01:27:44,187.106.44.58,27.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,128.19
+496,5.0,pt-BR,2017-06-30 01:25:42,2017-06-30 01:28:05,191.189.113.227,23.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,145.0
+497,37.0,pt-BR,2017-06-30 01:39:31,2017-06-30 01:55:53,187.39.127.205,23.0,Man,More than 6 years,2 to 5 hours,High school,Student,995.45
+498,37.0,pt-BR,2017-06-30 01:41:34,2017-06-30 02:02:05,187.112.242.70,28.0,Woman,More than 6 years,2 to 5 hours,Master,Student,1246.37
+499,18.0,pt-BR,2017-06-30 01:46:13,2017-06-30 01:52:01,177.140.240.195,27.0,Woman,More than 6 years,2 to 5 hours,Master,Student,355.97
+500,37.0,pt-BR,2017-06-30 01:48:22,2017-06-30 02:13:51,179.154.130.119,25.0,NotInformed,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,1543.58
+501,37.0,pt-BR,2017-06-30 01:53:15,2017-06-30 02:10:37,189.63.202.224,40.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,1057.55
+502,22.0,pt-BR,2017-06-30 01:53:48,2017-06-30 02:03:36,179.125.244.129,31.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,595.94
+503,2.0,pt-BR,2017-06-30 02:05:23,2017-06-30 02:06:52,200.136.217.235,23.0,Woman,More than 6 years,More than 8 hours,High school,Unemployed,89.95
+504,37.0,pt-BR,2017-06-30 02:13:54,2017-06-30 02:24:05,189.5.205.121,27.0,Man,3 to 6 years,More than 8 hours,Master,Student,624.49
+505,5.0,pt-BR,2017-06-30 02:21:45,2017-06-30 02:26:59,177.21.233.10,32.0,Woman,More than 6 years,1 to 2 hours,Master,Employee,315.3
+506,,pt-BR,2017-06-30 02:24:20,2017-06-30 02:24:20,191.189.121.7,,,,DNA,DNA,DNA,0.0
+507,1.0,pt-BR,2017-06-30 02:24:54,2017-06-30 02:25:45,177.180.163.24,22.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,51.6
+508,37.0,pt-BR,2017-06-30 02:31:41,2017-06-30 02:48:01,187.23.95.53,20.0,Woman,3 to 6 years,Less than 1 hour,High school,Student,985.99
+509,12.0,pt-BR,2017-06-30 02:33:27,2017-06-30 02:43:37,186.212.192.98,62.0,Woman,1 to 3 years,Less than 1 hour,Higher Education (Undergraduate),Retired,599.49
+510,5.0,pt-BR,2017-06-30 02:37:24,2017-06-30 02:39:54,179.183.165.129,21.0,Man,3 to 6 years,5 to 8 hours,High school,Student,152.09
+511,4.0,pt-BR,2017-06-30 02:47:53,2017-06-30 03:06:06,143.107.237.215,20.0,Man,More than 6 years,Less than 1 hour,High school,Student,1094.96
+512,0.0,pt-BR,2017-06-30 02:55:18,2017-06-30 02:56:38,189.111.81.129,,,,DNA,DNA,DNA,80.73
+513,12.0,pt-BR,2017-06-30 02:57:28,2017-06-30 03:04:29,179.180.66.182,27.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,426.79
+514,18.0,pt-BR,2017-06-30 02:59:28,2017-07-06 14:53:17,200.17.81.22,48.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student/Employee,1119.85
+515,2.0,pt-BR,2017-06-30 03:00:24,2017-06-30 03:01:32,177.52.82.21,19.0,Woman,3 to 6 years,More than 8 hours,High school,Student,69.1
+516,37.0,pt-BR,2017-06-30 03:01:17,2017-06-30 03:14:45,177.10.203.226,27.0,Woman,3 to 6 years,5 to 8 hours,Master,Student,822.47
+517,28.0,pt-BR,2017-06-30 03:04:01,2017-06-30 03:16:34,200.97.239.1,24.0,Woman,More than 6 years,1 to 2 hours,Master,Student,745.66
+518,37.0,pt-BR,2017-06-30 03:08:20,2017-06-30 03:23:41,177.32.251.89,35.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,934.87
+519,37.0,pt-BR,2017-06-30 03:09:07,2017-06-30 03:23:17,189.47.108.141,34.0,Woman,More than 6 years,Less than 1 hour,Master,Student,865.89
+520,6.0,pt-BR,2017-06-30 03:09:12,2017-06-30 03:13:02,177.193.150.155,38.0,Woman,More than 6 years,1 to 2 hours,Doctorate,Employee,231.62
+521,5.0,pt-BR,2017-06-30 03:15:01,2017-06-30 03:17:52,187.115.50.228,24.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,173.36
+522,1.0,pt-BR,2017-06-30 03:18:31,2017-06-30 03:19:14,177.92.207.93,31.0,Woman,More than 6 years,2 to 5 hours,Master,Unemployed,43.05
+523,7.0,pt-BR,2017-06-30 03:22:40,2017-06-30 03:27:20,179.113.97.105,27.0,Woman,More than 6 years,5 to 8 hours,Master,Student,283.0
+524,37.0,pt-BR,2017-06-30 03:28:01,2017-06-30 03:50:04,177.106.234.132,35.0,Woman,3 to 6 years,More than 8 hours,High school,Employee,1338.66
+525,37.0,pt-BR,2017-06-30 03:28:50,2017-06-30 03:46:02,186.219.84.193,22.0,Woman,More than 6 years,1 to 2 hours,High school,Student,1047.24
+526,37.0,pt-BR,2017-06-30 03:29:56,2017-06-30 03:51:04,191.189.121.208,22.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,1283.02
+527,3.0,pt-BR,2017-06-30 03:43:41,2017-06-30 03:45:47,177.99.34.118,26.0,Woman,1 to 3 years,Less than 1 hour,Master,Student,127.08
+528,1.0,pt-BR,2017-06-30 03:45:48,2017-06-30 03:46:20,191.168.150.63,18.0,Man,3 to 6 years,Less than 1 hour,High school,Student,32.07
+529,37.0,pt-BR,2017-06-30 03:54:22,2017-06-30 04:09:52,201.79.87.228,30.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,946.22
+530,16.0,pt-BR,2017-06-30 03:54:31,2017-06-30 04:01:21,189.15.247.125,24.0,Woman,More than 6 years,1 to 2 hours,High school,Employee,417.55
+531,25.0,pt-BR,2017-06-30 04:00:20,2017-06-30 04:36:38,187.58.76.187,38.0,Woman,3 to 6 years,More than 8 hours,Master,Student/Unemployed,2186.49
+532,,pt-BR,2017-06-30 04:11:50,2017-06-30 04:11:50,186.215.32.129,,,,DNA,DNA,DNA,0.0
+533,12.0,pt-BR,2017-06-30 04:20:32,2017-06-30 04:27:23,181.222.117.94,37.0,Woman,More than 6 years,2 to 5 hours,Master,Employee,416.67
+534,10.0,pt-BR,2017-06-30 04:26:33,2017-06-30 04:32:18,186.223.214.66,19.0,Man,3 to 6 years,1 to 2 hours,High school,Student/Employee,350.37
+535,37.0,pt-BR,2017-06-30 04:35:54,2017-06-30 04:54:23,177.80.174.32,38.0,Woman,More than 6 years,5 to 8 hours,Master,Student,1038.92
+536,37.0,pt-BR,2017-06-30 04:50:59,2017-06-30 05:02:32,189.103.21.207,19.0,Man,3 to 6 years,2 to 5 hours,High school,Student,706.52
+537,37.0,pt-BR,2017-06-30 04:57:09,2017-06-30 05:10:47,187.101.3.157,21.0,Woman,3 to 6 years,5 to 8 hours,High school,Student/Unemployed,832.38
+538,9.0,pt-BR,2017-06-30 05:16:41,2017-06-30 05:24:01,179.215.124.141,22.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,442.62
+539,10.0,pt-BR,2017-06-30 06:38:01,2017-06-30 06:44:11,179.179.87.21,20.0,Woman,More than 6 years,5 to 8 hours,High school,Student,375.73
+540,37.0,pt-BR,2017-06-30 07:08:33,2017-06-30 07:24:36,179.208.100.72,19.0,Man,More than 6 years,1 to 2 hours,High school,Student/Employee,979.01
+541,5.0,pt-BR,2017-06-30 08:11:36,2017-06-30 08:17:16,179.182.215.120,21.0,Woman,3 to 6 years,1 to 2 hours,High school,Employee,341.17
+542,19.0,pt-BR,2017-06-30 08:16:31,2017-06-30 08:26:05,187.41.67.138,21.0,Woman,1 to 3 years,1 to 2 hours,Higher Education (Undergraduate),Employee,582.97
+543,37.0,pt-BR,2017-06-30 08:17:44,2017-06-30 08:34:10,191.34.29.186,21.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,995.33
+544,10.0,pt-BR,2017-06-30 09:37:20,2017-06-30 09:43:21,177.180.98.215,19.0,Man,3 to 6 years,1 to 2 hours,High school,Student,364.64
+545,2.0,pt-BR,2017-06-30 10:03:54,2017-06-30 10:05:20,187.66.190.213,19.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,87.07
+546,,pt-BR,2017-06-30 10:04:41,2017-06-30 10:04:41,179.73.165.144,,,,DNA,DNA,DNA,0.0
+547,24.0,pt-BR,2017-06-30 10:13:43,2017-06-30 10:27:13,177.17.86.56,33.0,Woman,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,820.02
+548,15.0,pt-BR,2017-06-30 10:14:54,2017-06-30 10:25:18,189.4.214.144,37.0,Woman,More than 6 years,2 to 5 hours,Master,Employee,630.23
+549,16.0,pt-BR,2017-06-30 10:36:02,2017-06-30 10:44:52,191.17.13.128,35.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,536.64
+550,16.0,pt-BR,2017-06-30 10:56:38,2017-06-30 11:02:47,177.99.59.173,31.0,Man,More than 6 years,1 to 2 hours,Master,Student,375.64
+551,9.0,pt-BR,2017-06-30 11:06:38,2017-06-30 11:11:55,177.182.47.150,28.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,321.37
+552,6.0,pt-BR,2017-06-30 11:10:02,2017-06-30 11:12:17,177.206.237.213,20.0,Woman,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,136.7
+554,4.0,pt-BR,2017-06-30 11:37:34,2017-06-30 20:14:34,191.189.120.90,19.0,Woman,3 to 6 years,2 to 5 hours,High school,Student/Unemployed,31023.2
+555,,pt-BR,2017-06-30 11:48:02,2017-06-30 11:48:02,200.97.239.1,,,,DNA,DNA,DNA,0.0
+556,1.0,pt-BR,2017-06-30 11:52:25,2017-06-30 11:53:15,187.101.36.38,21.0,Woman,3 to 6 years,More than 8 hours,High school,Student/Employee,36.48
+557,2.0,pt-BR,2017-06-30 12:02:45,2017-06-30 12:04:30,177.180.188.165,24.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,105.71
+558,37.0,pt-BR,2017-06-30 12:03:31,2017-06-30 12:24:24,189.103.28.204,32.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,1156.99
+559,0.0,pt-BR,2017-06-30 12:07:02,2017-06-30 12:07:10,170.254.12.238,,,,DNA,DNA,DNA,8.34
+560,7.0,pt-BR,2017-06-30 12:07:17,2017-06-30 12:10:45,200.199.156.138,29.0,Woman,More than 6 years,2 to 5 hours,Master,Student,211.33
+561,26.0,pt-BR,2017-06-30 12:14:27,2017-07-02 18:59:10,191.32.87.93,27.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,1254.33
+562,37.0,pt-BR,2017-06-30 12:25:17,2017-06-30 12:39:01,177.177.112.235,24.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,836.13
+563,37.0,pt-BR,2017-06-30 12:27:05,2017-06-30 13:46:31,200.235.138.2,29.0,Woman,More than 6 years,2 to 5 hours,Doctorate,Student,4780.06
+564,37.0,pt-BR,2017-06-30 12:35:30,2017-06-30 12:49:16,200.19.96.254,33.0,Man,More than 6 years,1 to 2 hours,Doctorate,Student/Employee,839.23
+565,12.0,pt-BR,2017-06-30 12:40:20,2017-06-30 12:45:06,179.182.185.22,28.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Unemployed,291.05
+566,8.0,pt-BR,2017-06-30 12:54:40,2017-06-30 14:11:45,187.59.123.46,33.0,Woman,More than 6 years,2 to 5 hours,Doctorate,Student/Employee,4628.4
+567,,pt-BR,2017-06-30 13:00:56,2017-06-30 13:00:56,191.248.163.94,,,,DNA,DNA,DNA,0.0
+568,9.0,pt-BR,2017-06-30 13:00:56,2017-06-30 13:03:24,200.192.114.29,31.0,Woman,More than 6 years,2 to 5 hours,Doctorate,Employee,151.8
+569,9.0,pt-BR,2017-06-30 13:04:04,2017-06-30 13:12:07,177.38.244.2,27.0,Woman,More than 6 years,Less than 1 hour,Master,Student,487.62
+570,37.0,pt-BR,2017-06-30 13:55:07,2017-06-30 16:44:30,10.68.0.46,37.0,Woman,3 to 6 years,5 to 8 hours,Master,Student/Employee,10177.9
+571,7.0,pt-BR,2017-06-30 13:58:05,2017-06-30 14:03:14,189.40.66.156,26.0,Woman,3 to 6 years,5 to 8 hours,High school,Student,312.59
+572,37.0,pt-BR,2017-06-30 14:15:22,2017-06-30 14:38:52,200.136.193.202,29.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,1427.85
+573,2.0,pt-BR,2017-06-30 14:48:08,2017-06-30 14:50:06,177.157.177.243,38.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,119.31
+574,37.0,pt-BR,2017-06-30 15:30:38,2017-06-30 15:40:26,177.177.219.55,20.0,Woman,1 to 3 years,1 to 2 hours,High school,Student,602.24
+575,3.0,pt-BR,2017-06-30 15:45:40,2017-06-30 15:46:58,80.215.222.142,27.0,Man,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Student/Employee,78.81
+576,12.0,pt-BR,2017-06-30 15:51:41,2017-06-30 15:57:48,143.107.182.231,17.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,371.88
+577,37.0,pt-BR,2017-06-30 16:44:20,2017-06-30 16:53:55,177.16.194.240,36.0,Man,1 to 3 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,590.99
+578,,pt-BR,2017-06-30 17:05:45,2017-06-30 17:05:45,189.31.78.244,,,,DNA,DNA,DNA,0.0
+579,15.0,pt-BR,2017-06-30 17:13:37,2017-06-30 17:20:33,186.219.146.123,25.0,Woman,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,424.79
+580,2.0,pt-BR,2017-06-30 17:15:30,2017-06-30 17:20:02,177.58.162.105,63.0,Woman,1 to 3 years,Less than 1 hour,Doctorate,Employee,272.22
+581,37.0,pt-BR,2017-06-30 17:30:43,2017-06-30 18:04:37,152.254.150.78,26.0,Woman,More than 6 years,Less than 1 hour,Master,Employee,2046.68
+582,37.0,pt-BR,2017-06-30 17:31:39,2017-06-30 17:43:32,143.107.231.30,33.0,NotInformed,1 to 3 years,1 to 2 hours,Master,Student,729.62
+583,1.0,pt-BR,2017-06-30 18:24:25,2017-06-30 18:25:15,187.59.189.157,27.0,Woman,More than 6 years,More than 8 hours,Master,Student,50.58
+584,2.0,pt-BR,2017-06-30 18:52:05,2017-06-30 18:53:44,187.66.191.247,20.0,Man,3 to 6 years,1 to 2 hours,High school,Student,99.7
+585,37.0,pt-BR,2017-06-30 19:00:57,2017-06-30 19:15:26,179.98.151.244,40.0,Woman,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Unemployed,884.46
+586,,pt-BR,2017-06-30 19:15:50,2017-06-30 19:15:50,177.67.4.100,,,,DNA,DNA,DNA,0.0
+587,21.0,pt-BR,2017-06-30 19:38:40,2017-06-30 19:52:54,191.54.214.96,52.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,863.21
+588,9.0,pt-BR,2017-06-30 20:11:19,2017-06-30 20:29:10,191.189.109.204,23.0,Man,3 to 6 years,1 to 2 hours,High school,Student,1074.86
+589,37.0,pt-BR,2017-06-30 20:22:26,2017-06-30 20:42:28,179.187.5.164,20.0,Woman,1 to 3 years,5 to 8 hours,High school,Student,1216.82
+590,2.0,pt-BR,2017-06-30 21:35:32,2017-06-30 21:36:27,189.35.186.85,19.0,Man,3 to 6 years,Less than 1 hour,High school,Student,55.52
+591,37.0,pt-BR,2017-06-30 22:36:10,2017-06-30 22:51:20,189.6.17.161,29.0,Woman,More than 6 years,2 to 5 hours,Master,Student,925.46
+592,,pt-BR,2017-06-30 22:45:05,2017-06-30 22:45:05,187.101.30.114,,,,DNA,DNA,DNA,0.0
+593,3.0,pt-BR,2017-06-30 22:56:31,2017-06-30 22:59:26,201.93.37.153,25.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,177.06
+594,8.0,pt-BR,2017-06-30 23:18:50,2017-06-30 23:24:42,186.223.175.44,19051981.0,Woman,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,354.8
+595,37.0,pt-BR,2017-06-30 23:39:27,2017-07-01 00:03:29,187.39.1.61,27.0,Woman,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Student/Employee,1454.94
+596,9.0,pt-BR,2017-07-01 00:04:28,2017-07-01 00:07:54,143.107.118.13,21.0,Woman,1 to 3 years,1 to 2 hours,Higher Education (Undergraduate),Student,209.13
+597,37.0,pt-BR,2017-07-01 01:10:49,2017-07-01 01:24:23,201.95.78.140,24.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,827.24
+598,10.0,pt-BR,2017-07-01 01:14:47,2017-07-01 01:19:46,187.65.11.26,21.0,Woman,3 to 6 years,5 to 8 hours,High school,Student,303.08
+599,,pt-BR,2017-07-01 01:35:01,2017-07-01 01:35:01,177.23.176.202,,,,DNA,DNA,DNA,0.0
+600,,pt-BR,2017-07-01 01:56:17,2017-07-01 01:56:17,201.40.200.230,,,,DNA,DNA,DNA,0.0
+601,8.0,pt-BR,2017-07-01 02:07:11,2017-07-01 02:12:33,168.90.146.194,35.0,Woman,3 to 6 years,1 to 2 hours,High school,Unemployed,327.04
+602,37.0,pt-BR,2017-07-01 03:32:37,2017-07-01 03:49:54,191.223.194.192,34.0,Woman,3 to 6 years,1 to 2 hours,Master,Employee,1049.78
+603,37.0,pt-BR,2017-07-01 03:54:06,2017-07-01 04:09:17,177.180.168.234,35.0,Woman,More than 6 years,Less than 1 hour,Master,Student,925.03
+604,37.0,pt-BR,2017-07-01 04:03:47,2017-07-01 04:20:26,179.34.12.229,40.0,Woman,More than 6 years,2 to 5 hours,High school,Unemployed,1012.62
+605,37.0,pt-BR,2017-07-01 09:51:20,2017-07-01 10:03:49,187.58.41.36,32.0,Man,3 to 6 years,2 to 5 hours,Doctorate,Student/Employee,766.63
+606,4.0,pt-BR,2017-07-01 10:22:07,2017-07-01 10:24:41,186.216.183.189,34.0,Woman,More than 6 years,2 to 5 hours,Master,Employee,155.49
+607,37.0,pt-BR,2017-07-01 10:24:29,2017-07-01 10:37:31,177.180.163.75,26.0,Woman,More than 6 years,Less than 1 hour,Master,Student,795.76
+608,11.0,pt-BR,2017-07-01 11:19:18,2017-07-01 11:25:10,177.135.21.16,38.0,Woman,More than 6 years,1 to 2 hours,Master,Student,357.0
+609,15.0,pt-BR,2017-07-01 11:38:29,2017-07-01 12:40:58,191.5.249.102,26.0,Woman,1 to 3 years,2 to 5 hours,Higher Education (Undergraduate),Employee,3753.28
+610,0.0,pt-BR,2017-07-01 11:49:08,2017-07-01 11:49:42,200.235.223.128,,,,DNA,DNA,DNA,34.45
+611,7.0,pt-BR,2017-07-01 11:50:15,2017-07-01 11:53:23,177.180.188.128,17.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,190.48
+612,12.0,pt-BR,2017-07-01 12:00:25,2017-07-01 12:10:47,189.26.168.120,29.0,Woman,More than 6 years,1 to 2 hours,Master,Student,626.72
+613,8.0,pt-BR,2017-07-01 12:10:28,2017-07-01 12:15:40,177.134.188.190,37.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,315.49
+614,37.0,pt-BR,2017-07-01 12:12:07,2017-07-01 12:27:23,177.98.182.246,24.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,932.06
+615,37.0,pt-BR,2017-07-01 12:19:14,2017-07-01 12:49:03,170.83.152.164,23.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Employee,1804.18
+616,,pt-BR,2017-07-01 12:38:52,2017-07-01 12:38:52,177.85.66.70,,,,DNA,DNA,DNA,0.0
+617,14.0,pt-BR,2017-07-01 12:51:17,2017-07-01 12:56:23,187.3.40.38,37.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,309.59
+618,37.0,pt-BR,2017-07-01 14:14:17,2017-07-01 14:28:46,177.35.41.107,31.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,884.48
+619,4.0,pt-BR,2017-07-01 14:54:32,2017-07-01 14:56:24,179.234.183.235,19.0,Man,3 to 6 years,1 to 2 hours,High school,Student/Employee,113.44
+620,37.0,pt-BR,2017-07-01 15:02:57,2017-07-01 16:16:54,170.233.80.148,19.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,4451.33
+621,2.0,pt-BR,2017-07-01 15:03:46,2017-07-01 15:06:13,200.159.197.247,22.0,Woman,More than 6 years,2 to 5 hours,High school,Student,148.2
+622,37.0,pt-BR,2017-07-01 15:06:10,2017-07-01 15:29:47,187.66.93.125,19.0,Woman,More than 6 years,2 to 5 hours,High school,Student/Employee,1429.51
+623,37.0,pt-BR,2017-07-01 15:12:10,2017-07-01 15:43:52,201.1.113.103,19.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,1377.61
+624,10.0,pt-BR,2017-07-01 15:22:33,2017-07-01 15:27:35,179.95.128.105,25.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Employee,308.27
+625,26.0,pt-BR,2017-07-01 15:28:47,2017-07-01 15:42:42,177.67.4.100,38.0,Man,More than 6 years,1 to 2 hours,High school,Employee,842.62
+626,4.0,pt-BR,2017-07-01 16:10:37,2017-07-01 16:15:35,201.93.213.228,38.0,Woman,3 to 6 years,1 to 2 hours,Master,Employee,300.95
+627,11.0,pt-BR,2017-07-01 16:23:30,2017-07-01 16:47:39,177.180.104.75,23.0,Man,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,1448.84
+628,29.0,pt-BR,2017-07-01 16:32:52,2017-07-01 16:58:22,177.180.128.246,24.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,1540.63
+629,37.0,pt-BR,2017-07-01 16:59:11,2017-07-01 17:17:53,189.35.184.43,22.0,Woman,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,1136.85
+630,4.0,pt-BR,2017-07-01 17:01:17,2017-07-01 17:04:39,189.35.184.43,23.0,Woman,More than 6 years,1 to 2 hours,High school,Student,203.29
+631,1.0,pt-BR,2017-07-01 17:06:41,2017-07-01 17:08:02,187.49.223.218,23.0,Woman,More than 6 years,1 to 2 hours,High school,Employee,82.46
+632,37.0,pt-BR,2017-07-01 17:08:17,2017-07-01 17:20:53,191.189.124.177,25.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,771.02
+633,37.0,pt-BR,2017-07-01 17:10:43,2017-07-01 17:32:14,187.86.185.70,22.0,Man,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,1304.76
+634,3.0,pt-BR,2017-07-01 17:42:31,2017-07-01 17:44:50,177.79.34.76,24.0,Man,More than 6 years,1 to 2 hours,Master,Student,139.51
+635,37.0,pt-BR,2017-07-01 17:45:38,2017-07-01 18:06:40,187.39.127.199,27.0,Man,More than 6 years,1 to 2 hours,High school,Student/Employee,1203.94
+637,37.0,pt-BR,2017-07-01 18:09:02,2017-07-01 18:20:54,177.34.145.97,24.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,723.52
+639,1.0,pt-BR,2017-07-01 18:14:57,2017-07-01 18:16:09,177.67.4.45,26.0,Man,More than 6 years,1 to 2 hours,High school,Unemployed,72.06
+640,37.0,pt-BR,2017-07-01 18:19:23,2017-07-01 18:33:51,189.35.29.165,30.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,883.69
+641,2.0,pt-BR,2017-07-01 19:16:29,2017-07-01 19:18:36,200.129.159.237,23.0,Man,3 to 6 years,5 to 8 hours,Higher Education (Undergraduate),Student,127.55
+642,2.0,pt-BR,2017-07-01 19:40:18,2017-07-01 19:41:25,87.9.178.36,16.0,Man,1 to 3 years,Less than 1 hour,Elementary School,Student,68.47
+643,37.0,pt-BR,2017-07-01 20:51:19,2017-07-01 21:34:43,179.215.124.141,19.0,Man,More than 6 years,1 to 2 hours,High school,Student,2618.72
+644,19.0,pt-BR,2017-07-01 21:05:43,2017-07-01 21:13:08,179.234.186.67,19.0,Woman,3 to 6 years,Less than 1 hour,High school,Student,451.22
+645,10.0,pt-BR,2017-07-01 21:30:42,2017-07-01 21:36:36,191.189.108.215,21.0,Man,More than 6 years,5 to 8 hours,High school,Student,357.52
+646,37.0,pt-BR,2017-07-01 22:32:14,2017-07-01 22:58:18,189.35.27.101,22.0,Woman,More than 6 years,Less than 1 hour,High school,Student,1579.62
+647,15.0,pt-BR,2017-07-01 23:01:45,2017-07-01 23:13:31,189.35.27.101,29.0,Man,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,715.43
+648,37.0,pt-BR,2017-07-01 23:19:45,2017-07-01 23:33:47,191.34.137.108,23.0,Woman,More than 6 years,5 to 8 hours,High school,Student,856.83
+649,14.0,pt-BR,2017-07-01 23:42:09,2017-07-01 23:50:17,187.57.59.131,23.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,494.89
+650,2.0,pt-BR,2017-07-01 23:44:34,2017-07-01 23:48:48,189.35.28.92,18.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,254.38
+651,37.0,pt-BR,2017-07-01 23:59:39,2017-07-02 00:12:40,177.180.100.7,19.0,Woman,3 to 6 years,1 to 2 hours,High school,Student,795.99
+652,3.0,pt-BR,2017-07-02 00:21:16,2017-07-02 00:32:22,177.180.108.14,34.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,667.34
+653,2.0,pt-BR,2017-07-02 00:29:01,2017-07-02 00:31:20,187.66.191.247,19.0,Man,More than 6 years,2 to 5 hours,High school,Student,140.1
+654,37.0,pt-BR,2017-07-02 00:33:57,2017-07-02 00:55:04,189.63.227.53,62.0,Woman,1 to 3 years,Less than 1 hour,Doctorate,Employee,1279.34
+655,19.0,pt-BR,2017-07-02 00:41:08,2017-07-02 00:48:47,186.223.217.116,27.0,Woman,1 to 3 years,1 to 2 hours,Master,Student,464.9
+656,3.0,pt-BR,2017-07-02 00:49:27,2017-07-02 00:51:43,177.35.41.24,23.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,137.37
+657,10.0,pt-BR,2017-07-02 01:05:54,2017-07-02 01:10:05,191.48.13.74,19.0,Woman,More than 6 years,1 to 2 hours,High school,Student,255.83
+658,37.0,pt-BR,2017-07-02 01:06:39,2017-07-02 01:32:52,177.35.46.64,19.0,Woman,3 to 6 years,2 to 5 hours,High school,Student,1591.09
+659,9.0,pt-BR,2017-07-02 01:20:33,2017-07-02 01:54:30,187.6.133.138,23.0,Man,1 to 3 years,Less than 1 hour,High school,Student,2041.63
+660,37.0,pt-BR,2017-07-02 02:09:29,2017-07-02 02:21:12,187.39.134.143,18.0,Man,3 to 6 years,5 to 8 hours,High school,Student,720.78
+661,2.0,pt-BR,2017-07-02 02:50:40,2017-07-02 02:52:29,177.97.229.14,53.0,Man,More than 6 years,1 to 2 hours,Master,Employee,109.6
+662,12.0,pt-BR,2017-07-02 05:57:49,2017-07-02 06:06:42,177.180.186.32,24.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Unemployed,533.87
+663,37.0,pt-BR,2017-07-02 09:27:15,2017-07-02 09:51:31,83.227.117.148,31.0,Woman,More than 6 years,2 to 5 hours,Master,Student/Unemployed,1469.65
+664,,pt-BR,2017-07-02 11:56:47,2017-07-02 11:56:47,177.35.41.24,,,,DNA,DNA,DNA,0.0
+665,1.0,pt-BR,2017-07-02 12:03:16,2017-07-02 12:04:03,187.36.153.151,44.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,47.41
+666,0.0,pt-BR,2017-07-02 13:16:02,2017-07-02 13:17:26,187.113.197.140,,,,DNA,DNA,DNA,85.53
+667,37.0,pt-BR,2017-07-02 13:47:13,2017-07-02 14:06:46,177.9.16.92,32.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,1188.3
+668,37.0,pt-BR,2017-07-02 13:47:26,2017-07-02 13:56:42,191.19.205.103,25.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,570.98
+669,23.0,pt-BR,2017-07-02 13:58:45,2017-07-02 14:09:13,177.9.33.30,27.0,Woman,3 to 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,636.57
+670,4.0,pt-BR,2017-07-02 14:57:31,2017-07-02 15:02:05,177.180.173.46,28.0,Woman,More than 6 years,1 to 2 hours,Higher Education (Undergraduate),Unemployed,276.37
+671,37.0,pt-BR,2017-07-02 15:08:30,2017-07-02 15:19:44,177.35.42.97,32.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Employee,689.69
+672,37.0,pt-BR,2017-07-02 15:58:56,2017-07-02 16:26:32,177.180.98.108,26.0,Woman,More than 6 years,2 to 5 hours,High school,Student,1670.89
+673,37.0,pt-BR,2017-07-02 17:21:44,2017-07-02 17:37:53,191.181.102.18,21.0,Woman,More than 6 years,2 to 5 hours,High school,Student,986.19
+674,37.0,pt-BR,2017-07-02 17:51:46,2017-07-02 18:10:56,143.107.225.16,22.0,Man,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Unemployed,1162.47
+675,37.0,pt-BR,2017-07-02 18:01:59,2017-07-02 18:14:30,191.189.118.149,24.0,Woman,More than 6 years,More than 8 hours,Higher Education (Undergraduate),Student,763.96
+676,11.0,pt-BR,2017-07-02 20:08:00,2017-07-02 20:15:37,177.180.99.66,25.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,460.7
+677,8.0,pt-BR,2017-07-02 20:08:49,2017-07-02 20:12:57,143.107.225.16,24.0,Woman,More than 6 years,Less than 1 hour,High school,Student,251.09
+678,16.0,pt-BR,2017-07-02 20:36:01,2017-07-02 20:44:18,189.41.144.134,41.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Employee,503.0
+679,2.0,pt-BR,2017-07-02 21:41:07,2017-07-02 21:42:44,189.59.130.200,26.0,Man,3 to 6 years,1 to 2 hours,Master,Student,98.55
+680,7.0,pt-BR,2017-07-02 21:57:34,2017-07-03 02:59:45,189.100.121.44,18.0,Man,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,13287.5
+681,5.0,pt-BR,2017-07-02 23:47:58,2017-07-04 14:04:07,189.35.190.172,22.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student,515.5
+682,37.0,pt-BR,2017-07-03 01:36:34,2017-07-03 01:55:04,177.103.60.101,14.0,Woman,1 to 3 years,2 to 5 hours,Elementary School,Student,1126.26
+683,37.0,pt-BR,2017-07-03 12:21:50,2017-07-03 12:41:07,201.1.141.33,31.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Employee,1171.01
+684,37.0,pt-BR,2017-07-03 13:40:36,2017-07-03 13:53:22,177.67.4.45,27.0,Man,More than 6 years,1 to 2 hours,High school,Student,780.98
+685,,pt-BR,2017-07-03 16:31:42,2017-07-03 16:31:42,186.219.89.50,,,,DNA,DNA,DNA,0.0
+686,37.0,pt-BR,2017-07-03 16:57:48,2017-07-03 17:11:53,201.42.163.96,31.0,Man,3 to 6 years,2 to 5 hours,Master,Employee,859.7
+687,19.0,pt-BR,2017-07-03 17:12:37,2017-07-03 17:22:33,189.5.228.38,23.0,Woman,More than 6 years,2 to 5 hours,Higher Education (Undergraduate),Student/Employee,602.99
+688,9.0,pt-BR,2017-07-03 17:46:53,2017-07-03 17:51:58,191.209.73.171,24.0,Woman,3 to 6 years,Less than 1 hour,Higher Education (Undergraduate),Student/Unemployed,309.68
+689,9.0,pt-BR,2017-07-03 22:24:52,2017-07-03 22:31:27,201.74.200.146,22.0,Man,More than 6 years,5 to 8 hours,Higher Education (Undergraduate),Employee,398.51
+691,37.0,pt-BR,2017-07-04 19:51:29,2017-07-04 20:10:00,187.74.72.123,26.0,Woman,More than 6 years,Less than 1 hour,Master,Student,1124.43
+692,37.0,pt-BR,2017-07-04 22:44:08,2017-07-04 23:00:32,179.120.45.47,27.0,Woman,3 to 6 years,2 to 5 hours,Master,Employee,999.69
+693,37.0,pt-BR,2017-07-05 01:21:58,2017-07-05 22:30:29,179.154.252.234,26.0,Woman,3 to 6 years,1 to 2 hours,Master,Student,3868.54
+694,37.0,pt-BR,2017-07-05 14:55:21,2017-07-05 15:07:15,200.18.98.161,25.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,729.46
+695,,pt-BR,2017-07-06 01:04:59,2017-07-06 01:04:59,192.168.237.52,,,,DNA,DNA,DNA,0.0
+696,1.0,pt-BR,2017-07-06 16:39:37,2017-07-06 16:41:44,187.39.126.22,18.0,Man,More than 6 years,Less than 1 hour,Higher Education (Undergraduate),Student,128.52
+697,3.0,pt-BR,2017-07-06 16:42:06,2017-07-06 16:44:45,177.79.28.235,18.0,Man,3 to 6 years,1 to 2 hours,High school,Student,160.02
+698,11.0,pt-BR,2017-07-06 16:45:17,2017-07-06 16:49:29,191.193.242.124,26.0,Woman,More than 6 years,5 to 8 hours,Master,Employee,254.35
+699,1.0,pt-BR,2017-07-06 16:45:25,2017-07-06 16:46:28,179.247.53.40,22.0,Woman,More than 6 years,More than 8 hours,Higher Education (Undergraduate),Student/Employee,63.77
+700,12.0,pt-BR,2017-07-06 16:51:14,2017-07-06 16:59:25,177.180.101.184,29.0,Woman,3 to 6 years,2 to 5 hours,Master,Student,496.07
+701,3.0,pt-BR,2017-07-07 00:08:38,2017-07-07 00:10:36,179.154.129.195,23.0,Man,More than 6 years,2 to 5 hours,High school,Employee,119.0
+702,37.0,pt-BR,2017-07-07 20:27:39,2017-07-07 20:45:40,201.54.72.25,21.0,Woman,More than 6 years,Less than 1 hour,High school,Student/Unemployed,1096.71
+703,5.0,pt-BR,2017-07-07 21:15:02,2017-07-07 21:18:42,189.103.20.76,18.0,Man,3 to 6 years,2 to 5 hours,High school,Student,222.13
+704,37.0,pt-BR,2017-07-07 23:10:53,2017-07-07 23:24:12,189.79.196.112,25.0,Woman,3 to 6 years,1 to 2 hours,Higher Education (Undergraduate),Student,815.2
+705,37.0,pt-BR,2017-07-11 11:52:33,2017-07-11 12:07:24,179.154.129.138,18.0,Woman,3 to 6 years,Less than 1 hour,High school,Student,904.2
