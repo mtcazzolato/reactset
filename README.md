@@ -1,5 +1,5 @@
 
-# DSW2019 - ReactSet: Beyond Tears and Smiles
+# ReactSet: Beyond Tears and Smiles (DSW2019)
 
 *Last Update:* August 30th, 2019.  
 
